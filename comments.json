@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "author": "张三",
+        "text": "This is one comment"
+    },
+    {
+        "id": 2,
+        "author": "李四",
+        "text": "This is *another* comment"
+    },
+    {
+        "id": 1492586140245,
+        "author": "wangwu",
+        "text": "1234"
+    },
+    {
+        "id": 1492586163685,
+        "author": "lipeng",
+        "text": "hahah"
+    },
+    {
+        "id": 1492586180414,
+        "author": "weizhiqiang",
+        "text": "123456"
+    }
+]
