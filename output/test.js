@@ -25084,7 +25084,7 @@ var CommentBox = function (_React$Component) {
         key: "componentDidMount",
         value: function componentDidMount() {
             this.loadCommentsFromServer();
-            //setInterval(this.loadCommentsFromServer, this.props.pollInterval);
+            setInterval(this.loadCommentsFromServer, this.props.pollInterval);
         }
     }, {
         key: "handleCommentSubmit",
